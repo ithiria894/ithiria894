@@ -14,7 +14,7 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 🎬 **[Pagecast](https://github.com/mcpware/pagecast)** — record any web page into GIF/MP4 with auto-zoom on interactions.
 
-📓 **[NotebookLM MCP](https://github.com/mcpware/notebooklm-mcp)** — MCP server for Google NotebookLM API.
+📓 **[NotebookLM MCP](https://github.com/mcpware/notebooklm-api)** — MCP server for Google NotebookLM API.
 
 🖱️ **[UI Annotator](https://github.com/mcpware/ui-annotator)** — visual element inspector for Claude Code, annotate and identify UI elements.
 
