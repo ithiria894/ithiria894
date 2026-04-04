@@ -12,9 +12,21 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 🎰 **[Buddy Reroll](https://github.com/ithiria894/claude-code-buddy-reroll)** — reverse-engineered Claude Code's companion selection system. FNV-1a hash, Mulberry32 PRNG, found undocumented seed priority bug.
 
-📸 **[Instagram MCP](https://github.com/mcpware/instagram-mcp)** — 23 tools wrapping the Instagram Graph API as an MCP server.
-
 🎬 **[Pagecast](https://github.com/mcpware/pagecast)** — record any web page into GIF/MP4 with auto-zoom on interactions.
+
+📓 **[NotebookLM MCP](https://github.com/mcpware/notebooklm-mcp)** — MCP server for Google NotebookLM API.
+
+🖱️ **[UI Annotator](https://github.com/mcpware/ui-annotator)** — visual element inspector for Claude Code, annotate and identify UI elements.
+
+🎨 **[LogoLoom](https://github.com/mcpware/logoloom)** — AI-powered logo design → SVG → full brand kit. free, local, MCP-native.
+
+📋 **[Awesome Claude Code Workflows](https://github.com/ithiria894/awesome-claude-code-workflows)** — curated workflow recipes combining hooks, MCP servers, skills, agents. 67 stars.
+
+🔍 **[AI Research Engine](https://github.com/ithiria894/ai-research-engine)** — 100+ free APIs, 40+ MCP servers, multi-agent research workflow.
+
+#### research
+
+🧠 **[Can Model Internals Detect MCP Tool Poisoning?](https://github.com/mcpware/claude-code-organizer/blob/main/research/activation-probe-tool-poisoning.md)** — activation probes on GPT-2 catch poisoned MCP tools at 97-98.5% accuracy where text classifiers top out at 72-79%. First experiment toward SAE-based detection.
 
 #### about me
 
