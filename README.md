@@ -30,7 +30,7 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 #### about me
 
-HKUST CS DropOut, shipped 5 open source tools in 2 weeks → Founder [@mcpware](https://github.com/mcpware)
+CS DropOut, shipped 5 open source tools in 2 weeks → Founder [@mcpware](https://github.com/mcpware)
 
 i don't mass-produce repos. i ship things that work, then move on to the next one.
 
