@@ -1,4 +1,4 @@
-### hey, i'm nicole 👋
+### hey, i'm Ithiria 👋
 
 i build AI tools that actually do things. not chatbots, not wrappers — tools that ship and solve real problems.
 
