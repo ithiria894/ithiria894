@@ -34,4 +34,4 @@ CS DropOut, shipped a 200 stars + open source project in first week of using cla
 
 i don't mass-produce repos. i ship things that work, then move on to the next one.
 
- `she/her`
+`愛の戦士` `she/her`
