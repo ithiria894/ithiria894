@@ -8,7 +8,7 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 🦞 **PokeClaw** — first open-source on-device phone agent. runs LLM on your phone, controls it via accessibility. no cloud, no API key, no internet. *(coming soon)*
 
-🔧 **[Claude Code Organizer](https://github.com/mcpware/claude-code-organizer)** — manage memories, skills, MCP servers across all your Claude Code projects. 200+ stars in first week.
+🔧 **[Claude Code Organizer](https://github.com/mcpware/claude-code-organizer)** — manage memories, skills, MCP servers across all your Claude Code projects. 200+ stars in first 2 week.
 
 🎰 **[Buddy Reroll](https://github.com/ithiria894/claude-code-buddy-reroll)** — reverse-engineered Claude Code's companion selection system. FNV-1a hash, Mulberry32 PRNG, found undocumented seed priority bug.
 
