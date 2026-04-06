@@ -2,11 +2,11 @@
 
 i build AI tools that actually do things. not chatbots, not wrappers — tools that ship and solve real problems.
 
-**right now:** building on-device AI agents and [MCP servers](https://github.com/mcpware) for the Claude Code ecosystem.
+**right now:** built the first local LLM that autonomously controls your phone. also building [MCP servers](https://github.com/mcpware) for the Claude Code ecosystem.
 
 #### things i made
 
-🦞 **PokeClaw** — first open-source on-device phone agent. runs LLM on your phone, controls it via accessibility. no cloud, no API key, no internet. *(coming soon)*
+🦞 **[PokeClaw](https://github.com/agents-io/PokeClaw)** — first working on-device phone agent. runs Gemma 4 on your phone, controls it via accessibility. no cloud, no API key, no internet. built in two all-nighters when Gemma 4 dropped on April 2nd. [landing page](https://agents-io.github.io/PokeClaw/) · [dev.to writeup](https://dev.to/ithiria894/i-gave-an-ai-full-control-of-my-android-phone-no-cloud-no-api-keys-no-shame-2jjm)
 
 🔧 **[Claude Code Organizer](https://github.com/mcpware/claude-code-organizer)** — manage memories, skills, MCP servers across all your Claude Code projects. 200+ stars in first 2 week.
 
@@ -30,7 +30,7 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 #### about me
 
-CS DropOut, shipped a 200 stars + open source project in first week of using claude code → Founder [@mcpware](https://github.com/mcpware)
+CS dropout. zero android experience. built PokeClaw (first local LLM phone agent) in 2 nights with Claude Code. Founder [@mcpware](https://github.com/mcpware) [@agents-io](https://github.com/agents-io)
 
 i don't mass-produce repos. i ship things that work, then move on to the next one.
 
