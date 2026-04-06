@@ -1,4 +1,4 @@
-### hey, i'm Ithiria 👋
+### hey, i'm Ithiria894 👋
 
 i build AI tools that actually do things. not chatbots, not wrappers — tools that ship and solve real problems.
 
