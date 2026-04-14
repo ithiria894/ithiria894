@@ -26,8 +26,6 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 📡 **[Reddit Unofficial API](https://github.com/agents-io/reddit-unofficial-api)** — free Reddit API through Chrome DevTools. no API keys, no OAuth. read posts, write comments, vote, search, send messages, all through your browser session. MCP server included.
 
-📱 **[Android AI Agent Guide](https://github.com/agents-io/android-ai-agent-guide)** — the best workflow for AI to develop Android phone. complete guide with on-device LLM, accessibility services, tool calling, QA automation, 17 real pitfalls documented.
-
 #### research
 
 🧠 **[Can Model Internals Detect MCP Tool Poisoning?](https://github.com/mcpware/claude-code-organizer/blob/main/research/activation-probe-tool-poisoning.md)** — activation probes on GPT-2 catch poisoned MCP tools at 97-98.5% accuracy where text classifiers top out at 72-79%. First experiment toward SAE-based detection.
