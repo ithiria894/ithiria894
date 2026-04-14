@@ -2,7 +2,7 @@
 
 i build AI tools that actually do things. not chatbots, not wrappers — tools that ship and solve real problems.
 
-**right now:** built the first local LLM that autonomously controls your phone. also building [MCP servers](https://github.com/mcpware) for the Claude Code ecosystem.
+**right now:** built the first local LLM app that autonomously controls your phone. also building [MCP servers](https://github.com/mcpware) for the Claude Code ecosystem.
 
 #### things i made
 
