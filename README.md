@@ -16,7 +16,7 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 📓 **[NotebookLM MCP](https://github.com/mcpware/notebooklm-api)** — MCP server for Google NotebookLM API.
 
-🖱️ **[UI Annotator](https://github.com/mcpware/ui-annotator)** — visual element inspector for Claude Code, annotate and identify UI elements.
+🖱️ **[UI Annotator](https://github.com/mcpware/ui-annotator-mcp)** — visual element inspector for Claude Code, annotate and identify UI elements.
 
 🎨 **[LogoLoom](https://github.com/mcpware/logoloom)** — AI-powered logo design → SVG → full brand kit. free, local, MCP-native.
 
