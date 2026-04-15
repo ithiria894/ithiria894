@@ -1,14 +1,16 @@
 ### hey, i'm Ithiria894 👋
 
-i build AI tools that actually do things. not chatbots, not wrappers — tools that ship and solve real problems.
+i build agent tooling, MCP servers, and local-first AI systems.
+
+i care about the operating layer around agents: tools, skills, workflows, observability, and control.
 
 **right now:** built the first local LLM app that autonomously controls your phone. also building [MCP servers](https://github.com/mcpware) for the Claude Code ecosystem.
 
 #### things i made
 
-🦞 **[PokeClaw](https://github.com/agents-io/PokeClaw)** — first working on-device phone agent. runs Gemma 4 on your phone, controls it via accessibility. no cloud, no API key, no internet. built in two all-nighters when Gemma 4 dropped on April 2nd. [landing page](https://agents-io.github.io/PokeClaw/) · [dev.to writeup](https://dev.to/ithiria894/i-gave-an-ai-full-control-of-my-android-phone-no-cloud-no-api-keys-no-shame-2jjm)
+🦞 **[PokeClaw](https://github.com/agents-io/PokeClaw)** — first working on-device phone agent. when Gemma 4 launched with native tool calling on April 2, 2026, i wanted to know whether a phone could become a real on-device agent instead of just another chatbot. i started a couple days later and shipped the first public build four days after launch, with two all-nighters in the middle. [landing page](https://agents-io.github.io/PokeClaw/) · [dev.to writeup](https://dev.to/ithiria894/i-gave-an-ai-full-control-of-my-android-phone-no-cloud-no-api-keys-no-shame-2jjm)
 
-🔧 **[Claude Code Organizer](https://github.com/mcpware/claude-code-organizer)** — manage memories, skills, MCP servers across all your Claude Code projects. 200+ stars in first 2 week.
+🔧 **[Claude Code Organizer](https://github.com/mcpware/claude-code-organizer)** — control plane for Claude Code memories, skills, MCP servers, and project config. i hit the pain point in my first few days of serious Claude Code use and shipped CCO publicly within the first week. 253 stars.
 
 🎰 **[Buddy Reroll](https://github.com/ithiria894/claude-code-buddy-reroll)** — reverse-engineered Claude Code's companion selection system. FNV-1a hash, Mulberry32 PRNG, found undocumented seed priority bug.
 
@@ -32,7 +34,7 @@ i build AI tools that actually do things. not chatbots, not wrappers — tools t
 
 #### about me
 
-CS dropout. zero android experience. built PokeClaw (first local LLM phone agent) in 2 nights with Claude Code. Founder [@mcpware](https://github.com/mcpware) [@agents-io](https://github.com/agents-io)
+CS dropout. zero android experience. built PokeClaw after Gemma 4 made native on-device tool calling real, and shipped the first public build four days after launch. built Claude Code Organizer within my first week of serious Claude Code use after immediately running into config sprawl, hidden state, and session bloat. Founder [@mcpware](https://github.com/mcpware) [@agents-io](https://github.com/agents-io)
 
 i don't mass-produce repos. i ship things that work, then move on to the next one.
 
