@@ -34,7 +34,7 @@ i care about the operating layer around agents: tools, skills, workflows, observ
 
 #### about me
 
-CS dropout. zero android experience. built PokeClaw after Gemma 4 made native on-device tool calling real, and shipped the first public build four days after launch. built Claude Code Organizer within my first week of serious Claude Code use after immediately running into config sprawl, hidden state, and session bloat. Founder [@mcpware](https://github.com/mcpware) [@agents-io](https://github.com/agents-io)
+Undergrad CS dropout. zero android experience. built PokeClaw after Gemma 4 made native on-device tool calling real, and shipped the first public build four days after launch. built Claude Code Organizer within my first week of serious Claude Code use after immediately running into config sprawl, hidden state, and session bloat. Founder [@mcpware](https://github.com/mcpware) [@agents-io](https://github.com/agents-io)
 
 i don't mass-produce repos. i ship things that work, then move on to the next one.
 
